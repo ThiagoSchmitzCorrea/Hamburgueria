@@ -12,7 +12,7 @@
 
 <style scoped>
     #main-banner {
-        background-image: url('F:/Vue/REF/3_make_your_burger/public/img/burger.jpg');
+        background-image: url('/img/burger.jpg');
         background-position: 0 -250px;
         background-size: cover;
         height: 500px;
